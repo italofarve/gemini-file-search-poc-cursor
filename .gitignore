@@ -21,6 +21,7 @@ results/
 
 # Documents (keep structure but ignore content)
 documents/*.txt
+!documents/ejemplo_contrato.txt
 documents/*.pdf
 !documents/.gitkeep
 
