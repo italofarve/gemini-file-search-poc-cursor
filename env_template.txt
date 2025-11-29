@@ -1,0 +1,13 @@
+# Gemini API Configuration
+GEMINI_API_KEY=your_api_key_here
+GEMINI_MODEL=gemini-2.5-flash
+
+# File Search Configuration
+FILE_SEARCH_STORE_NAME=contracts-store
+CHUNK_SIZE=1000
+CHUNK_OVERLAP=200
+
+# Processing Configuration
+OUTPUT_DIR=./results
+DOCUMENTS_DIR=./documents
+
