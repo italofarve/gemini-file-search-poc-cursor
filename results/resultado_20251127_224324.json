@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "fecha_ejecucion": "2025-11-27T22:43:24.246178",
+    "archivo_procesado": "ejemplo_contrato.txt",
+    "modelo": "gemini-2.5-flash",
+    "store_name": "contracts-store"
+  },
+  "datos_extraidos": {
+    "fecha_contrato": null,
+    "tipo_contrato": null,
+    "empresa": null,
+    "contraparte": null,
+    "monto": null,
+    "moneda": null,
+    "duracion": null,
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "objeto_contrato": null,
+    "condiciones_importantes": [],
+    "firmantes": [],
+    "ubicacion": null,
+    "notas_adicionales": "No se ha proporcionado un contrato para analizar.",
+    "archivo_procesado": "ejemplo_contrato.txt",
+    "fecha_procesamiento": "2025-11-27T22:43:24.246017",
+    "modelo_usado": "gemini-2.5-flash"
+  }
+}

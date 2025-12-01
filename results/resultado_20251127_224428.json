@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "fecha_ejecucion": "2025-11-27T22:44:28.890344",
+    "archivo_procesado": "ejemplo_contrato.txt",
+    "modelo": "gemini-2.5-flash",
+    "store_name": "contracts-store"
+  },
+  "datos_extraidos": {
+    "fecha_contrato": "2024-01-15",
+    "tipo_contrato": "CONTRATO DE ARRENDAMIENTO DE OFICINA",
+    "empresa": "EMPRESA ABC S.A.",
+    "contraparte": "INMOBILIARIA XYZ LTDA.",
+    "monto": "5000.00",
+    "moneda": "USD",
+    "duracion": "12 meses",
+    "fecha_inicio": "2024-02-01",
+    "fecha_fin": "2025-01-31",
+    "objeto_contrato": "Arrendamiento de una oficina de 150 metros cuadrados ubicada en el piso 5 del edificio comercial \"Torre Empresarial\" en Avenida Principal 123, Santiago, Chile.",
+    "condiciones_importantes": [
+      "La renta mensual será de USD 5,000.00.",
+      "La renta se pagará por adelantado los días 1 de cada mes mediante transferencia bancaria.",
+      "El arrendatario deberá constituir una garantía equivalente a tres (3) meses de renta (USD 15,000.00).",
+      "El arrendador se compromete a entregar el inmueble en buen estado, realizar reparaciones estructurales y mantener los servicios básicos.",
+      "El arrendatario se compromete a pagar la renta, mantener el inmueble en buen estado, no realizar modificaciones sin autorización y usar el inmueble exclusivamente para fines comerciales.",
+      "Cualquiera de las partes podrá terminar el contrato con un aviso previo de treinta (30) días, sin incumplimiento de obligaciones."
+    ],
+    "firmantes": [
+      "Juan Pérez (Gerente General de EMPRESA ABC S.A.)",
+      "María García (Directora Comercial de INMOBILIARIA XYZ LTDA.)"
+    ],
+    "ubicacion": "Santiago, Chile",
+    "notas_adicionales": "CONTRATO NÚMERO: CT-2024-001",
+    "archivo_procesado": "ejemplo_contrato.txt",
+    "fecha_procesamiento": "2025-11-27T22:44:28.890203",
+    "modelo_usado": "gemini-2.5-flash"
+  }
+}

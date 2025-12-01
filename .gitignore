@@ -14,10 +14,10 @@ build/
 dist/
 *.egg-info/
 
-# Results and outputs
-results/
-*.json
-!package.json
+# Results and outputs (deshabilitado temporalmente para rastrear resultados)
+# results/
+# *.json
+# !package.json
 
 # Documents (keep structure but ignore content)
 documents/*.txt
